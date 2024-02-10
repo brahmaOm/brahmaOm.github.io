@@ -1,5 +1,6 @@
 # brahmaOm.github.io
 The website for web design for everyone.
+First i designed it.
 
 That is correct. Both methods will achieve the desired result of positioning the "For More Information" anchor tag to the extreme right. The first method uses the `justify-content: space-between` property to evenly space out all anchor tags, while the second method manually sets the `margin-left` property of each anchor tag except the last one.
 
